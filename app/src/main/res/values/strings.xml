@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloAndroidForms</string>
+    <string name="feedbacktitle">Enter feedback details for the developer</string>
+    <string name="feedbackname">Your Name</string>
+    <string name="feedbackemail">Your Email</string>
+    <string name="feedbacktype">Enter your comments here</string>
+    <string name="feedbackbody">User Comments</string>
+    <string name="feedbackresponse">Would you like an e-mail response?</string>
+    <string name="feedbackbutton">Submit Feedback</string>
+    <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Gripe</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Bug</string>
+</resources>
